@@ -15,5 +15,5 @@
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/nzarr_244">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
